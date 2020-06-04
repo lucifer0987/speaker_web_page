@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,600;1,700&display=swap');
 
 body{
-  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -13,7 +12,7 @@ body{
   background-image: url('images/sp_bg.png');
   width: 460px;
   height: 700px;
-  margin-bottom: 20px;
+  margin-top: 20px;
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
