@@ -12,7 +12,7 @@ body{
 .speaker-root{
   background-image: url('images/sp_bg.png');
   width: 460px;
-  height: 90vh;
+  height: 700px;
   margin-bottom: 20px;
   background-repeat: no-repeat;
   background-size: cover;
