@@ -10,7 +10,7 @@ body{
 }
 
 .speaker-root{
-  background-image: url('/images/sp_bg.png');
+  background-image: url('images/sp_bg.png');
   width: 460px;
   height: 90vh;
   margin-bottom: 20px;
