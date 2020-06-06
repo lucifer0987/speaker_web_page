@@ -17,6 +17,7 @@ body{
   background-size: cover;
   display: flex;
   flex-direction: column;
+  box-shadow:0 10px 20px rgba(0,0,0,.53), 0 6px 6px rgba(0,0,0,.6);
 }
 
 .mozilla-logo{
@@ -68,6 +69,7 @@ body{
   padding: 10px;
   width: 180px;
   height: 180px;
+  box-shadow:0 10px 20px rgba(0,0,0,.53), 0 6px 6px rgba(0,0,0,.6);
 }
 
 .speaker-pic p{
